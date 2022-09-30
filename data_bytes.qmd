@@ -14,9 +14,9 @@ listing:
 # `shelf::librarian` automatically installs missing packages and loads all packages. It also works for non-CRAN packages without needing to do the whole 'install `remotes` then `install_github`' thing
 
 # install.packages("librarian")
-librarian::shelf(palmerpenguins,
-                 tidyverse,
-                 ggsvg)
+#librarian::shelf(palmerpenguins,
+#                 tidyverse,
+#                 ggsvg)
 ```
 ### What's a Data Byte?
 
